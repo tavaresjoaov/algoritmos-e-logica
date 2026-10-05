@@ -1,4 +1,17 @@
 """
+Um laboratório realiza o controle de qualidade de um produto que é fabricado
+em diferentes lotes. Durante a análise, são coletadas amostras de cada lote
+para medir a concentração de uma determinada substância, em mg/L.
+
+O laboratório analisará 5 lotes. Para cada lote, poderão ser analisadas
+quantas amostras forem necessárias. A análise das amostras de um lote
+termina quando for digitado o valor -1.
+
+Para cada lote, calcule e mostre:
+■ a quantidade de amostras analisadas;
+■ a concentração média das amostras;
+■ a maior concentração encontrada;
+■ a menor concentração encontrada.
 """
 
 amostra = 0
