@@ -1,4 +1,6 @@
 """
+Faça um programa que receba:
+
 ■ o código do produto comprado; e
 ■ a quantidade comprada do produto.
 
